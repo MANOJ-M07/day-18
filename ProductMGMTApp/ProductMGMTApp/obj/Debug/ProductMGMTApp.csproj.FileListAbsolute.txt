@@ -1,0 +1,11 @@
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\bin\Debug\ProductMGMTApp.exe.config
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\bin\Debug\ProductMGMTApp.exe
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\bin\Debug\ProductMGMTApp.pdb
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\bin\Debug\Product.dll
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\bin\Debug\Product.pdb
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\obj\Debug\ProductMGMTApp.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\obj\Debug\ProductMGMTApp.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\obj\Debug\ProductMGMTApp.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\obj\Debug\ProductMGMTApp.csproj.CopyComplete
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\obj\Debug\ProductMGMTApp.exe
+D:\simplilearn\day-18\ProductMGMTApp\ProductMGMTApp\obj\Debug\ProductMGMTApp.pdb

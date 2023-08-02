@@ -1,0 +1,8 @@
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\bin\Debug\ExtensionMethodExampleOne.exe.config
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\bin\Debug\ExtensionMethodExampleOne.exe
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\bin\Debug\ExtensionMethodExampleOne.pdb
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\obj\Debug\ExtensionMethodExampleOne.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\obj\Debug\ExtensionMethodExampleOne.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\obj\Debug\ExtensionMethodExampleOne.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\obj\Debug\ExtensionMethodExampleOne.exe
+D:\simplilearn\day-18\ExtensionMethodExampleOne\ExtensionMethodExampleOne\obj\Debug\ExtensionMethodExampleOne.pdb

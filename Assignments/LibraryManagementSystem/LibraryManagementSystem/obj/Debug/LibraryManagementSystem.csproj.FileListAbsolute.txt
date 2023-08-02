@@ -1,0 +1,11 @@
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Book.dll
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Book.pdb
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\simplilearn\day-18\Assignments\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

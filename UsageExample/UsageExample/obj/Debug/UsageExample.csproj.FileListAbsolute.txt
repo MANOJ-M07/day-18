@@ -1,0 +1,11 @@
+D:\simplilearn\day-18\UsageExample\UsageExample\bin\Debug\UsageExample.exe.config
+D:\simplilearn\day-18\UsageExample\UsageExample\bin\Debug\UsageExample.exe
+D:\simplilearn\day-18\UsageExample\UsageExample\bin\Debug\UsageExample.pdb
+D:\simplilearn\day-18\UsageExample\UsageExample\bin\Debug\CalcLib.dll
+D:\simplilearn\day-18\UsageExample\UsageExample\bin\Debug\CalcLib.pdb
+D:\simplilearn\day-18\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.CopyComplete
+D:\simplilearn\day-18\UsageExample\UsageExample\obj\Debug\UsageExample.exe
+D:\simplilearn\day-18\UsageExample\UsageExample\obj\Debug\UsageExample.pdb

@@ -1,0 +1,8 @@
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\bin\Debug\unsafeExampleTwo.exe.config
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\bin\Debug\unsafeExampleTwo.exe
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\bin\Debug\unsafeExampleTwo.pdb
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\obj\Debug\unsafeExampleTwo.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\obj\Debug\unsafeExampleTwo.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\obj\Debug\unsafeExampleTwo.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\obj\Debug\unsafeExampleTwo.exe
+D:\simplilearn\day-18\unsafeExampleTwo\unsafeExampleTwo\obj\Debug\unsafeExampleTwo.pdb
